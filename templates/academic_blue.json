@@ -1,0 +1,28 @@
+{
+  "colors": {
+    "primary": "003366",
+    "accent": "0066CC",
+    "text": "333333",
+    "background": "FFFFFF",
+    "light_bg": "E8F0FE",
+    "white": "FFFFFF"
+  },
+  "fonts": {
+    "title": "SimHei",
+    "body": "SimSun",
+    "size_title": 32,
+    "size_subtitle": 24,
+    "size_section": 28,
+    "size_body": 18,
+    "size_small": 14,
+    "size_footer": 10
+  },
+  "slide_layouts": {
+    "cover": "title_slide",
+    "toc": "table_of_contents",
+    "content": "section_header_and_body",
+    "ending": "centered_text"
+  },
+  "slide_width_cm": 25.4,
+  "slide_height_cm": 19.05
+}

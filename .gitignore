@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+image_mapping.json
+image_refs.json
+slide_plan.json
+thesis_text.txt
+*.tmp
